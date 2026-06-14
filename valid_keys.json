@@ -1,0 +1,17 @@
+[
+  {
+    "key": "AAAA-BBBB-CCCC-DDDD",
+    "expires": "2026-12-31",
+    "note": "1 year license"
+  },
+  {
+    "key": "XXXX-YYYY-ZZZZ-WWWW",
+    "expires": "2025-07-01",
+    "note": "30 days"
+  },
+  {
+    "key": "LIFE-TIME-KEY-0001",
+    "expires": null,
+    "note": "Lifetime"
+  }
+]
